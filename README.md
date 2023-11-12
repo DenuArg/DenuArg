@@ -3,18 +3,18 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tu_perfil_de_linkedin/)](https://www.linkedin.com/in/denisegerminiani/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/tu_nombre_de_usuario)](https://github.com/DenuArg)
 
-Soy estudiante de la Tecnicatura Universitaria en Programación en la UTN San Rafael, apasionado por la tecnología y el desarrollo de software. ¡Bienvenido a mi perfil de GitHub!
+Soy estudiante de la Tecnicatura Universitaria en Programación en la UTN San Rafael, apasionada por la tecnología y el desarrollo de software. ¡Bienvenido a mi perfil de GitHub!
 
 ## 🚀 Acerca de mí
 
 - 🎓 Actualmente, me encuentro cursando la Tecnicatura Universitaria en Programación en la UTN San Rafael.
-- 💼 Estoy abierto a oportunidades laborales y colaboraciones en proyectos interesantes.
+- 💼 Estoy abiertoa a oportunidades laborales y colaboraciones en proyectos interesantes.
 - 💻 Me encanta explorar diferentes tecnologías y aprender nuevas habilidades de desarrollo.
-- 🌱 Siempre estoy en busca de mejorar y crecer como desarrollador.
+- 🌱 Siempre estoy en busca de mejorar y crecer como desarrolladora.
 
 ## 🔧 Tecnologías y Herramientas
 
-Estoy familiarizado con una variedad de tecnologías y herramientas, incluyendo:
+Estoy familiarizada con una variedad de tecnologías y herramientas, incluyendo:
 
 - **Lenguajes de Programación:** Python, JavaScript, Java.
 - **Frameworks y Librerías:** React, Flask, Node.js.
